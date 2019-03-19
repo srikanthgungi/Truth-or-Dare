@@ -19,3 +19,4 @@ def truthOrdareGame(number):
 r=random.randint(0,7)
 turn=truthOrdareGame(r)
 print(turn)
+#print(truthOrdareGame(random.randint(0,7)))
